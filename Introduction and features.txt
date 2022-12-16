@@ -1,0 +1,26 @@
+***C-Programming project about Online Shopping.
+
+                              SELL.COM
+
+There are two parts in the project and these are-
+
+1. Manager log in
+   
+   Their will be two part in manager login-
+      1. In the first part manager can know about company information where he/she  
+	 can change the the collection and can see the history of sell's chart. 
+      2. In the second part manager can buy something from online.
+
+The manager login panel system demands the correct username and password for log in.
+Here is account details- 
+Username: sellcom
+Password: 1234
+
+Noted: If manager puts wrong information then he will go back to the previous console and 
+will have to do it again. 
+
+2. Customer log in
+
+	In this feature first customer need to sign up if the customer don't have 
+	any account then sign in and can buy their desire products. And will show 
+        the total amount with discount. 
